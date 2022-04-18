@@ -12,7 +12,7 @@
 }
 
 :root {
-    --color-bg: #1f1f38;
+    --color-bg: #292949;
     --color-bg-variant: #2c2c6c;
     --color-primary: #4bd5ff;
     --color-primary-variant: rgba(77,181,255,0.4);
@@ -40,7 +40,7 @@ body{
     color: var(--color-white);
     line-height: 1.7;
     background-image: url(../src/assets/external-content.duckduckgo.com.png);
-    background-blend-mode:hard-light;
+    background-blend-mode:overlay;
     background-attachment: fixed;
     background-position: center;
 

@@ -46,3 +46,18 @@ header {
     height: 1px;
     background: var(--color-primary);
 }
+
+
+
+.me {
+
+    width: 10rem;
+    height: 10rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0;
+    margin-left: calc(50% - 5rem);
+    overflow: hidden;
+    border-radius: 50%;
+    border: 1.5px solid var(--color-light);
+
+}
