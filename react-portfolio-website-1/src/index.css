@@ -40,6 +40,10 @@ body{
     color: var(--color-white);
     line-height: 1.7;
     background-image: url(../src/assets/external-content.duckduckgo.com.png);
+    background-blend-mode:hard-light;
+    background-attachment: fixed;
+    background-position: center;
+
 }
 
 /* =========== Gerneral Styles ======================*/
@@ -62,6 +66,7 @@ h1 {
 
 section {
     margin-top: 8rem;
+    height: 100vh;
 
 }
 
