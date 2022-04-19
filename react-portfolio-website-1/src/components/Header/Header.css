@@ -50,7 +50,7 @@ header {
 
 
 .me {
-
+    background: radial-gradient(var(--color-primary), transparent);
     width: 10rem;
     height: 10rem;
     margin-top: 1.5rem;
@@ -58,6 +58,6 @@ header {
     margin-left: calc(50% - 5rem);
     overflow: hidden;
     border-radius: 50%;
-    border: 1.5px solid var(--color-light);
+    border: 2px solid var(--color-light);
 
 }
